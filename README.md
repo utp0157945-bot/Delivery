@@ -65,13 +65,14 @@ Cumplir con normas y estándares internacionales de calidad y seguridad en softw
 | **Día 7** | Revisión de sprint, retrospectiva y demo al equipo                     | Todo el equipo                              | Zoom / Google Meet                     |
 
 4. Herramientas a utilizar
-🔹 Gestión y planificación
+
+- Gestión y planificación
 
 Jira / Trello: Para la administración de historias de usuario, backlog y tareas.
 
 Scrum: Marco de trabajo ágil para la organización de sprints y roles.
 
-🔹 Desarrollo
+- Desarrollo
 
 Frontend: Angular o React para interfaces dinámicas e intuitivas.
 
@@ -81,7 +82,7 @@ Base de datos: MySQL como sistema de gestión de datos.
 
 IDE: Visual Studio Code como entorno de desarrollo principal.
 
-🔹 Control de versiones y CI/CD
+- Control de versiones y CI/CD
 
 GitHub: Repositorio central de código.
 
@@ -89,7 +90,7 @@ GitHub Actions: Automatización de integración y despliegue.
 
 Docker: Contenerización y despliegue en entornos controlados.
 
-🔹 Pruebas y seguridad
+-  Pruebas y seguridad
 
 Jest (JS): Pruebas unitarias en el backend.
 
@@ -97,7 +98,7 @@ Postman: Pruebas de endpoints de API.
 
 OWASP ZAP: Pruebas de seguridad contra vulnerabilidades.
 
-🔹 Despliegue y monitoreo
+ Despliegue y monitoreo
 
 AWS / Azure: Infraestructura en la nube para producción.
 
