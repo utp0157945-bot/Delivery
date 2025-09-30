@@ -85,11 +85,19 @@ Postman: Pruebas de endpoints de API.
 
 OWASP ZAP: Pruebas de seguridad contra vulnerabilidades.
 
- Despliegue y monitoreo
+- Despliegue y monitoreo
 
 AWS / Azure: Infraestructura en la nube para producción.
 
 Prometheus + Grafana: Métricas de rendimiento y monitoreo en tiempo real.
 
 Sentry: Registro de errores en producción.
+
+- Comunicación del equipo
+
+Slack: Comunicación diaria, gestión rápida de dudas y coordinación del equipo.
+
+Zoom / Google Meet: Reuniones de sprint planning, revisiones y retrospectivas.
+
+WhatsApp / Telegram: Canal alterno para comunicación inmediata en caso de emergencias.
 
