@@ -9,19 +9,13 @@ En la actualidad, las aplicaciones de entrega de alimentos han transformado la m
 
 Las principales funcionalidades que contempla el proyecto son:
 
-Registro e inicio de sesión seguro de usuarios (clientes, restaurantes y repartidores).
-
-Catálogo de restaurantes y productos con filtros avanzados.
-
-Carrito de compras para gestionar pedidos de manera sencilla.
-
-Pasarela de pagos confiable que soporte diferentes métodos de pago.
-
-Seguimiento en tiempo real del repartidor mediante geolocalización.
-
-Sistema de notificaciones instantáneas tanto para clientes como para repartidores.
-
-Panel de administración para la gestión de restaurantes, pedidos y usuarios.
+- Registro e inicio de sesión seguro de usuarios (clientes, restaurantes y repartidores).
+- Catálogo de restaurantes y productos con filtros avanzados.
+- Carrito de compras para gestionar pedidos de manera sencilla.
+- Pasarela de pagos confiable que soporte diferentes métodos de pago.
+- Seguimiento en tiempo real del repartidor mediante geolocalización.
+- Sistema de notificaciones instantáneas tanto para clientes como para repartidores.
+- Panel de administración para la gestión de restaurantes, pedidos y usuarios.
 
 La arquitectura de la aplicación se desarrollará bajo un enfoque ágil y DevOps, permitiendo que el equipo entregue valor de forma continua mediante ciclos de desarrollo cortos (sprints), pruebas constantes, despliegue automatizado y monitoreo del rendimiento en producción.
 
@@ -33,21 +27,14 @@ El objetivo general de la App de entregas es crear una plataforma digital que ag
 
 Objetivos específicos:
 
-Implementar un sistema de registro e inicio de sesión seguro con validaciones y protección contra accesos no autorizados.
-
-Desarrollar un catálogo de restaurantes y productos que permita búsquedas rápidas y personalizadas.
-
-Incorporar un carrito de compras dinámico que permita modificar pedidos antes de confirmar la compra.
-
-Integrar una pasarela de pagos segura que soporte tarjetas de crédito, débito y plataformas digitales.
-
-Habilitar el rastreo en tiempo real del repartidor mediante servicios de geolocalización.
-
-Diseñar un sistema de notificaciones automáticas para mantener informados a clientes y repartidores.
-
-Garantizar la escalabilidad del sistema mediante arquitectura en la nube y despliegue con contenedores.
-
-Cumplir con normas y estándares internacionales de calidad y seguridad en software (ISO/IEC, OWASP, ITIL).
+- Implementar un sistema de registro e inicio de sesión seguro con validaciones y protección contra accesos no autorizados.
+- Desarrollar un catálogo de restaurantes y productos que permita búsquedas rápidas y personalizadas.
+- Incorporar un carrito de compras dinámico que permita modificar pedidos antes de confirmar la compra.
+- Integrar una pasarela de pagos segura que soporte tarjetas de crédito, débito y plataformas digitales.
+- Habilitar el rastreo en tiempo real del repartidor mediante servicios de geolocalización.
+- Diseñar un sistema de notificaciones automáticas para mantener informados a clientes y repartidores.
+- Garantizar la escalabilidad del sistema mediante arquitectura en la nube y despliegue con contenedores.
+- Cumplir con normas y estándares internacionales de calidad y seguridad en software (ISO/IEC, OWASP, ITIL).
 
 3. Sprint de una semana (ejemplo)
 
